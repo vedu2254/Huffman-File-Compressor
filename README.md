@@ -1,7 +1,7 @@
 # Huffman-File-Compressor
 **Implementation of Huffman Coding algorithm for lossless text compression.**
 
-I have explained the working of my program in detail [here](https://vedu2254.medium.com/implementation-of-huffman-coding-for-lossless-text-file-compression-46c6be795121).
+I have explained the working of my program in a great detail in my blog [here](https://vedu2254.medium.com/implementation-of-huffman-coding-for-lossless-text-file-compression-46c6be795121).
 
 For Compression -<br/>
 1.Run myCompressor.exe or compile source code<br/>
